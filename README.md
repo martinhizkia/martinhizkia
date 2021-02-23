@@ -10,6 +10,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: twitter, ig.
 - 😄 Pronouns: Martin (as it is).
 - ⚡ Fun fact: They talk about my one tap.
-:github:
+
+Skills:
+javascript
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=martinhizkia)](https://github.com/anuraghazra/github-readme-stats)
 
