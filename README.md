@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Martin (as it is).
 - ⚡ Fun fact: They talk about my one tap.
 
-Skills: javascript 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=martinhizkia)](https://github.com/anuraghazra/github-readme-stats)
 
