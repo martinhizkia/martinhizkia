@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Network Laboratory University of Indonesia
+- 🔭 I’m currently working at Network Laboratory University of Indonesia
 - 🌱 I’m currently learning MANY THINGS!!!
 - 👯 I’m looking to collaborate on computer network, cloud, and database system.
 - 💬 Ask me about anything 
