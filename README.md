@@ -1,8 +1,5 @@
 ### Ohhh, There you are 👋
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working at Network Laboratory University of Indonesia.
 - 🌱 I’m currently learning fullstack web development, hybrid framework, and cloud.
 - 👯 I’m looking to collaborate on mobile/web development, cloud, and database system.
